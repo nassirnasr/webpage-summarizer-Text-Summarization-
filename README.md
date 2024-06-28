@@ -25,7 +25,7 @@ This project is a web-based application for summarizing text from webpages. It u
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/nassirnasr/webpage-summarizer-Text-Summarization-.git
-    cd webpage-summarizer
+    cd webpage-summarizer-Text-Summarization
     ```
 
 2. **Install the required Python packages:**
