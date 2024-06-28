@@ -50,8 +50,12 @@ This project is a web-based application for summarizing text from webpages. It u
     ```sh
     streamlit run WebSummarization.py
     ```
+    or
+    ```sh
+    streamlit run app.py
+    ```
 
-3. **Open the provided URL in your browser to interact with the app.**
+4. **Open the provided URL in your browser to interact with the app.**
 
 ## Example
 
